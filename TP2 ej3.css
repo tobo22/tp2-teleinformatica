@@ -1,0 +1,25 @@
+div {
+
+
+}
+
+.logo {
+
+    margin-left: 30%;
+
+}
+
+.barra {
+
+   margin-top: 5%;
+   margin-left: 40%;
+
+}
+
+.e {
+
+    display: flex;
+    margin: -25px 0px 46px 1070px;
+    justify-content: flex-end;
+
+}
